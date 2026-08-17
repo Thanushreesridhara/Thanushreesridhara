@@ -1,98 +1,107 @@
-# Hi there! 👋 I'm Thanushree Sridhara
+# Thanushree Sridhara
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Deep+Learning+Enthusiast;Interested+in+MLOps;Always+Learning+New+Things!" alt="Typing SVG" />
-</div>
+**M.Sc. Computer & Systems Engineering · Machine Learning & LLM Systems**
 
-## 🚀 About Me
+Master's student at **TU Ilmenau, Germany**, with a background in machine learning, computer vision, and cloud-based ML systems.
 
-I'm a passionate **Deep Learning Enthusiast** who loves turning data into actionable insights and building intelligent systems. I work on end-to-end ML solutions, from research and development to production deployment.
+My current focus is on **LLM-based systems, information retrieval, RAG, and evaluation of language-model outputs**. I am also developing a deeper understanding of **Transformer architectures, model adaptation, and fine-tuning**.
 
-- 🔭 Currently working on: **Advanced ML deployment strategies ,MLOps pipelines, LLMOps**
-- 🌱 Learning: **Latest trends in AI/ML,RAG, AgenticAI, Cloud Technologies, and DevOps**
-- 💡 Interested in: **Deep Learning, Computer Vision, NLP, and Scalable ML Systems**
-- 📫 How to reach me: **[bharadwajthanu25@gmail.com]** 
-- 💼 Open to: **ML Engineering roles, Data Science positions, and exciting collaborations**
+> Interested in how language models can retrieve, interpret, and transform unstructured information into reliable and useful outputs.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Focus
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Information Retrieval**
+Embeddings · Semantic Search · Hybrid Retrieval · Reranking
 
-### ML/AI Frameworks & Libraries
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+**LLM Systems**
+RAG · Agentic Workflows · Structured Information Extraction
 
-### Cloud & DevOps
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Evaluation**
+Retrieval Evaluation · RAG Evaluation · Faithfulness · Answer Quality
 
-### Data & Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+**Transformers**
+Architecture · Fine-tuning · Parameter-efficient Adaptation
 
+**ML Systems**
+Python · APIs · Docker · Cloud Deployment · CI/CD
 
 ---
 
-## 📊 Featured Projects
+## Selected Work
 
-> **Note for Recruiters**: Most of my significant projects are in private repositories to protect intellectual property. I'm happy to provide access and discuss implementations in detail. Please reach out!
+### RAG & LLM Systems
 
-### Agentic Chatbot 
-**Implemented Chatbot from scratch using modular coding**
-- **Tech Stack**: Python, Flask/FastAPI, Docker, Azure
-- **Features**: RESTful APIs, containerized models, CI/CD pipelines
-- **Status**: 🔒 *Private Repository - Request access for full code*
-- 📧 **Interested?** Contact me at [bharadwajthanu25@mail.com] for access
+**Production-oriented Document Q&A**
+Retrieval · Evaluation · Observability · Testing · Cloud Deployment
 
-### ☁️ Research Project Machine Learning
-**End-to-end MLOps pipeline implementation**
-- **Tech Stack**: Azure ML, Python, Docker, Azure DevOps
-- **Features**: Automated training, model versioning, deployment automation
-- **Status**: 🔒 *Private Repository - Request access for full code*
-- 📧 **Interested?** Contact me at [bharadwajthanu25@mail.com] for access
+**Multi-source RAG & Text-to-SQL**
+Intelligent Routing · Cost-aware Processing · Structured Data
 
+**RAG Experiments**
+Semantic Chunking · Vector Retrieval · Reranking · Evaluation
 
+### Machine Learning & Research
 
----
+**Master's Research — IoT Cybersecurity**
+Machine Learning · Cloud Deployment · ML Systems
 
-## 📈 GitHub Statistics
+**Computer Vision — Audi A2D2**
+PyTorch · Deep Learning · Autonomous Driving Data
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thanubharadwaj&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanubharadwaj&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thanubharadwaj&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-## 📫 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanushree-sridhara/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharadwajthanu25@gmail.com)
-
-</div>
+**ML Experiments**
+Classification · Regression · Data Processing
 
 ---
 
-## 💼 Professional Highlights
+## Research Interests
 
-- 🎯 **Specialized in**: Making data tell stories (and occasionally making it behave like a well-trained puppy)
-- 🔧 **Battle-tested with**: Model optimization, and convincing models to work in production without having existential crises  
-- 📈 **Current obsessions**: Scalable ML systems that don't crash at 3 AM, MLOps that actually Ops, and cloud deployments that stay afloat
-- 🤝 **Collaboration style**: I bring the enthusiasm and terrible jokes, you bring the coffee - together we debug the universe! ☕🐛🌌
+`Natural Language Processing` · `Information Retrieval` · `LLMs` · `RAG` · `LLM Evaluation` · `Transformers` · `Fine-tuning` · `Machine Learning`
 
 ---
-  
-**⭐ If you find my work interesting, please consider starring my repositories! ⭐**
 
-</div>
+## Technical Stack
+
+**Languages**
+Python · SQL
+
+**ML / AI**
+PyTorch · TensorFlow · Hugging Face · NLP · Transformers · LLMs
+
+**Retrieval / RAG**
+Embeddings · Semantic Search · Hybrid Search · Reranking · RAGAS · LangChain · LlamaIndex
+
+**Engineering**
+FastAPI · Flask · Docker · Git · GitHub Actions · pytest
+
+**Cloud / Infrastructure**
+AWS · Azure · Kubernetes · Terraform
+
+**Databases**
+PostgreSQL · MongoDB · Qdrant · FAISS · ChromaDB
+
+---
+
+## Background
+
+**M.Sc. Computer & Systems Engineering**
+TU Ilmenau · Germany
+
+**Research**
+Machine Learning · IoT Cybersecurity · Cloud-based ML Systems
+
+**Industry**
+Bosch Research · Truemetrics · Verzeo
+
+---
+
+## Currently
+
+Building research-oriented projects around **LLM retrieval, evaluation, and Transformer-based model adaptation**.
+
+Open to **Master's thesis and research opportunities** in NLP, LLMs, information retrieval, and applied machine learning.
+
+<br>
+
+[LinkedIn](https://linkedin.com/in/thanushree-sridhara) · [GitHub](https://github.com/Thanushreesridhara)
