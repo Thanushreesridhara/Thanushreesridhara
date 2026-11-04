@@ -101,7 +101,7 @@ Bosch Research · Truemetrics · Verzeo
 
 ## 🔐 Cybersecurity — TryHackMe
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/SudoPrompt.png)](https://tryhackme.com/p/SudoPrompt)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-SudoPrompt-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SudoPrompt)
 
 Hands-on security practice on TryHackMe: [**SudoPrompt**](https://tryhackme.com/p/SudoPrompt).
 
