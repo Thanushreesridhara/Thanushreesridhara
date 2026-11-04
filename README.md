@@ -99,6 +99,14 @@ Bosch Research · Truemetrics · Verzeo
 
 ---
 
+## 🔐 Cybersecurity — TryHackMe
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-SudoPrompt-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/SudoPrompt)
+
+Hands-on security practice on TryHackMe: [**SudoPrompt**](https://tryhackme.com/p/SudoPrompt).
+
+---
+
 ## 🌱 Currently Exploring
 
 **Transformers → Fine-tuning → RAG Evaluation → Information Retrieval**
